@@ -1,28 +1,32 @@
-emqx/emqx:5.7.0
-emqx/emqx:4.3.22
-anapsix/alpine-java:8_server-jre_unlimited
-emqx/emqx:4.2.14
-filebrowser/filebrowser:v2.22.4
-gitlab/gitlab-ce:15.2.2-ce.0
-hub.zentao.net/app/zentao:18.10-20240109
-jenkins/jenkins:latest-jdk8
-mariadb:10.6
-mysql/mysql-server:5.7
-mysql:5.6
-mysql:5.7
-mysql:8.0.22
-portainer/portainer:latest
-postgres:13.4
-redis:3.2
-redis:6.2.6
-sameersbn/gitlab:15.2.2
-sameersbn/postgresql:12-20200524
-sonatype/nexus3:3.51.0
-star7th/showdoc:v2.10.8
-sonarqube:7.8-community
+#emqx/emqx:5.7.0
+#emqx/emqx:4.3.22
+#anapsix/alpine-java:8_server-jre_unlimited
+#emqx/emqx:4.2.14
+#filebrowser/filebrowser:v2.22.4
+#gitlab/gitlab-ce:15.2.2-ce.0
+#hub.zentao.net/app/zentao:18.10-20240109
+#jenkins/jenkins:latest-jdk8
+#mariadb:10.6
+#mysql/mysql-server:5.7
+#mysql:5.6
+#mysql:5.7
+#mysql:8.0.22
+#portainer/portainer:latest
+#postgres:13.4
+#redis:3.2
+#redis:6.2.6
+#sameersbn/gitlab:15.2.2
+#sameersbn/postgresql:12-20200524
+#sonatype/nexus3:3.51.0
+#star7th/showdoc:v2.10.8
+#sonarqube:7.8-community
 
 		
 
+qq986945193/david_oracle_11g:latest
+qq986945193/david_mysql_5.7:1.0.1
+qq986945193/david_zookeeper3.4.13:v1.0
+qq986945193/david_dubbo_admin:latest
 
 
 	
@@ -30,7 +34,7 @@ sonarqube:7.8-community
 
 
 
-
+###########################################
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
