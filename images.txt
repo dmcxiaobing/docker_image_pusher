@@ -2,7 +2,7 @@ emqx/emqx:5.7.0
 emqx/emqx:4.3.22
 anapsix/alpine-java:8_server-jre_unlimited
 emqx/emqx:4.2.14
-filebrowser/filebrowser:2.22.4
+filebrowser/filebrowser:v2.22.4
 gitlab/gitlab-ce:15.2.2-ce.0
 hub.zentao.net/app/zentao:18.10-20240109
 jenkins/jenkins:latest-jdk8
