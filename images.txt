@@ -1,7 +1,4 @@
-nginx
-gitlab-ce:16.11.4-ce.0
-emqx:5.5.0
-gitlab-ce:17.0.2-ce.0
+emqx/emqx:5.7.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
