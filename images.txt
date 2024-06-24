@@ -4,6 +4,9 @@
 #centos:7.2.1511
 #centos:centos7.9.2009
 #debian:bullseye
+#debian:bookworm
+#ubuntu:24.04
+#ubuntu:22.04
 #anapsix/alpine-java:8_server-jre_unlimited
 #mariadb:10.6
 #mysql/mysql-server:5.7
@@ -24,6 +27,7 @@
 #postgres:13.4
 #redis:3.2
 #redis:6.2.6
+#redis:7.0.14
 #sameersbn/gitlab:15.2.2
 #sameersbn/postgresql:12-20200524
 #sameersbn/redis:4.0.9-2
