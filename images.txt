@@ -57,7 +57,7 @@ emqx/emqx:4.3.3
 ################AARMHX64###########################
 emqx/emqx:4.2.14-alpine-arm64v8
 emqx/emqx:4.3.3-alpine-arm64v8
-arm64v8/mysql:8.0
+#######arm64v8/mysql:8.0
 ###########################################
 #qq986945193/david_oracle_11g:latest
 #qq986945193/david_mysql_5.7:1.0.1
