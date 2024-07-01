@@ -1,6 +1,9 @@
+##############################Aliyun
+#registry.cn-shenzhen.aliyuncs.com/davidzheng
 #emqx/emqx:5.7.0
 #emqx/emqx:4.3.22
 #emqx/emqx:4.2.14
+emqx/emqx:4.3.3
 #centos:7.2.1511
 #centos:centos7.9.2009
 #debian:bullseye
@@ -25,6 +28,7 @@
 #rabbitmq:3.13.0
 #tancloud/hertzbeat:v1.5.0
 #postgres:13.4
+#postgres:15.2-alpine
 #redis:3.2
 #redis:6.2.6
 #redis:7.0.14
@@ -48,9 +52,12 @@
 #halohub/halo:2.10
 #rustdesk/rustdesk-server:1.1.11-1
 #rustdesk/rustdesk-server-s6:1.1.11-1
-guacamole/guacd:1.5.4
-guacamole/guacamole:1.5.4
-postgres:15.2-alpine
+#guacamole/guacd:1.5.4
+#guacamole/guacamole:1.5.4
+################AARMHX64###########################
+emqx/emqx:4.2.14-alpine-arm64v8
+emqx/emqx:4.3.3-alpine-arm64v8
+arm64v8/mysql:8
 ###########################################
 #qq986945193/david_oracle_11g:latest
 #qq986945193/david_mysql_5.7:1.0.1
