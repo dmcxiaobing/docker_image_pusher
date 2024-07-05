@@ -54,6 +54,10 @@
 #rustdesk/rustdesk-server-s6:1.1.11-1
 #guacamole/guacd:1.5.4
 #guacamole/guacamole:1.5.4
+#jitsi/web:stable-9457-1
+#jitsi/prosody:stable-9457-1
+#jitsi/jicofo:stable-9457-1
+#jitsi/jvb:stable-9457-1
 ################AARMHX64###########################
 #emqx/emqx:4.2.14-alpine-arm64v8
 #emqx/emqx:4.3.3-alpine-arm64v8
