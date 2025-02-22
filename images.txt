@@ -60,7 +60,8 @@
 #jitsi/jvb:stable-9457-1
 #mingsoft/mcms:5.3.3
 #frooodle/s-pdf:0.26.1
-cleverest/toolbox
+#cleverest/toolbox
+lobehub/lobe-chat
 ################AARMHX64###########################
 #emqx/emqx:4.2.14-alpine-arm64v8
 #emqx/emqx:4.3.3-alpine-arm64v8
