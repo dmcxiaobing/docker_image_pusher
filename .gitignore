@@ -10,3 +10,11 @@ target
 *.iws
 *.log
 /.idea/
+/.idea/codeStyles/
+/.idea/inspectionProfiles/
+/.idea/.gitignore
+/.idea/docker_image_pusher.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
